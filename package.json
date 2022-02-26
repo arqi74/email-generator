@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "random-email": "^1.0.3",
+    "yargs": "^17.3.1"
+  }
+}
